@@ -1,0 +1,5 @@
+Projeto cachorro:
+
+- Conceito de classe, objeto, atributos e métodos
+- Conceito de modificadores de acesso (público e privado)
+- Conceito de encapsulamento
